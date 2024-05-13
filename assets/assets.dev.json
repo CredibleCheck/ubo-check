@@ -3,7 +3,7 @@
 		"content": "internal",
 		"updateAfter": 13,
 		"contentURL": [
-			"https://raw.githubusercontent.com/gorhill/uBlock/master/assets/assets.dev.json",
+			"https://raw.githubusercontent.com/CredibleCheck/ubo-check/main/assets/assets.dev.json",
 			"assets/assets.dev.json"
 		],
 		"cdnURLs": [
@@ -919,7 +919,6 @@
 	},
 	"malayalam-psuedoscience-blocklist": {
 		"content": "filters",
-		"group":"fake",
 		"contentURL": "https://raw.githubusercontent.com/CredibleCheck/unscientific-block/main/malayalam-psuedoscience-blocklists.txt",
 		"supportURL": "https://github.com/CredibleCheck/unscientific-block",
 		"title": "Malayalam Pseudoscience Blocklist",
