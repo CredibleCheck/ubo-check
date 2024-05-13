@@ -919,6 +919,15 @@
 		"supportURL": "https://github.com/CredibleCheck/unscientific-block",
 		"title": "Malayalam Pseudoscience Blocklist",
 		"description": "A blocklist of websites promoting pseudoscience in the Malayalam language."
+	  },
+	"astrology-channels-malayalam": {
+		"content": "filters",
+		"group":"privacy",
+		"contentURL": ["https://raw.githubusercontent.com/CredibleCheck/unscientific-block/main/astrology-channels-malayalam.txt",
+		"assets/ublock/astrology-channels-malayalam.txt"],
+		"supportURL": "https://github.com/CredibleCheck/unscientific-block",
+		"title": "Malayalam Astrology Blocklist",
+		"description": "A blocklist of astrology channels promoting pseudoscience in the Malayalam language."
 	  }
 	  
 }

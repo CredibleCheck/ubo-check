@@ -1164,7 +1164,8 @@ async function main() {
         'https://ublockorigin.github.io/uAssets/thirdparties/easylist.txt',
         'https://ublockorigin.github.io/uAssets/thirdparties/easyprivacy.txt',
         'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext',
-        'https://raw.githubusercontent.com/CredibleCheck/uAssetsCredible/master/filters/malayalam-psuedoscience-blocklists.txt'
+        'https://raw.githubusercontent.com/CredibleCheck/uAssetsCredible/master/filters/malayalam-psuedoscience-blocklists.txt',
+        'https://raw.githubusercontent.com/CredibleCheck/unscientific-block/main/astrology-channels-malayalam.txt'
     ];
     await rulesetFromURLs({
         id: 'default',

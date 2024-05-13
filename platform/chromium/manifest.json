@@ -57,7 +57,8 @@
         "https://filterlists.com/*",
         "https://forums.lanik.us/*",
         "https://github.com/*",
-        "https://*.github.io/*"
+        "https://*.github.io/*",
+        "https://*.githubusercontent.com/*"
       ],
       "js": [
         "/js/scriptlets/subscriber.js"
@@ -69,7 +70,8 @@
       "matches": [
         "https://github.com/uBlockOrigin/*",
         "https://ublockorigin.github.io/*",
-        "https://*.reddit.com/r/uBlockOrigin/*"
+        "https://*.reddit.com/r/uBlockOrigin/*",
+        "https://*.githubusercontent.com/*"
       ],
       "js": [
         "/js/scriptlets/updater.js"
