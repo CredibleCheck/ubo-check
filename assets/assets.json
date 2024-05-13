@@ -913,7 +913,7 @@
 	},
 	"malayalam-psuedoscience-blocklist": {
 		"content": "filters",
-		"group":"default",
+		"group":"privacy",
 		"contentURL": ["https://raw.githubusercontent.com/CredibleCheck/unscientific-block/main/malayalam-psuedoscience-blocklists.txt",
 		"assets/ublock/malayalam-psuedoscience-blocklists.txt"],
 		"supportURL": "https://github.com/CredibleCheck/unscientific-block",

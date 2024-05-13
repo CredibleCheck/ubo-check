@@ -919,7 +919,9 @@
 	},
 	"malayalam-psuedoscience-blocklist": {
 		"content": "filters",
-		"contentURL": "https://raw.githubusercontent.com/CredibleCheck/unscientific-block/main/malayalam-psuedoscience-blocklists.txt",
+		"group":"privacy",
+		"contentURL": ["https://raw.githubusercontent.com/CredibleCheck/unscientific-block/main/malayalam-psuedoscience-blocklists.txt",
+		"assets/ublock/malayalam-psuedoscience-blocklists.txt"],
 		"supportURL": "https://github.com/CredibleCheck/unscientific-block",
 		"title": "Malayalam Pseudoscience Blocklist",
 		"description": "A blocklist of websites promoting pseudoscience in the Malayalam language."
